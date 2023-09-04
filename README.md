@@ -22,6 +22,6 @@ Note: Flip the frames for accurate right and left results. <br> <br>
 <br> <br>
 
 ### Screenshot reference
-![image](https://github.com/kirtiitt/Eye-Gaze-Tracking/assets/137528591/2e58c12a-9bfb-4f04-97ae-0d0ad5105d8f)
+<img src= 'https://github.com/kirtiitt/Eye-Gaze-Tracking/assets/137528591/2e58c12a-9bfb-4f04-97ae-0d0ad5105d8f' width= '500' height= '400'>
 <br> <br>
-![image](https://github.com/kirtiitt/Eye-Gaze-Tracking/assets/137528591/10d9ebf2-3060-4528-9ec1-bc3e9b073f20)
+<img src= 'https://github.com/kirtiitt/Eye-Gaze-Tracking/assets/137528591/10d9ebf2-3060-4528-9ec1-bc3e9b073f20' width= '500' height= '400'>
